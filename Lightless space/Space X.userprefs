@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FlashBonus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FlashBonusPick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Singleton.cs" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="60" Column="4" />
+      <File FileName="Assets\Scripts\MainMenuScript.cs" Line="41" Column="23" NotebookId="1" />
+      <File FileName="Assets\Scripts\BackgroundLoop.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\SSBScript.cs" Line="28" Column="2" NotebookId="1" />
+      <File FileName="Assets\Scripts\AsteroidSpawnScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\ShotScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\HPBonusScript.cs" Line="24" Column="5" NotebookId="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="17" Column="11" NotebookId="1" />
+      <File FileName="Assets\Scripts\AsteroidsScript.cs" Line="59" Column="4" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
